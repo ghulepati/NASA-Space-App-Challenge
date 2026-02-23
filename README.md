@@ -1,162 +1,108 @@
-# NASA-Space-App-Challenge
-🌍 Expurgo Re-Tyre
-NASA Space Apps Challenge Submission
+# 🌍 Expurgo Re-Tyre
 
-Author: Sai Ghule
+## 🚀 NASA Space Apps Challenge Submission
 
-🚀 Overview
+**Author:** Sai Ghule  
 
-Expurgo Re-Tyre is an innovative environmental technology concept developed for the NASA Space Apps Challenge.
+---
 
-It proposes a strap-on, multi-layered emission-absorbing tyre pad that actively absorbs harmful gases such as CO₂, CO, and SO₂ directly from the environment as vehicles move.
+## 🧠 Overview
 
-This repository contains supporting materials for the presentation.
+Expurgo Re-Tyre is an environmental technology concept developed for the NASA Space Apps Challenge.
 
-🌫️ Problem Statement
+It proposes a strap-on, multi-layered emission-absorbing tyre pad that actively absorbs harmful gases such as CO₂, CO, and SO₂ as vehicles move.
+
+---
+
+## 🌫 Problem Statement
 
 Air pollution is a growing global crisis.
 
-76% of Indians live in areas that do not meet national air quality standards
+- 76% of Indians live in areas that do not meet national air quality standards  
+- Impacts include:
+  - Reduced birth weight  
+  - Impaired child growth  
+  - Obesity  
+  - Bladder cancer  
+- Children and the elderly are disproportionately affected  
+- Only 19% of Indians are aware of the severity of air pollution  
 
-Air pollution impacts:
+---
 
-Birth weight
+## 💡 Proposed Solution
 
-Child growth
+### Expurgo Re-Tyre Pad
 
-Obesity
+A multi-layer emission-absorbing pad that fits onto vehicle tyres.
 
-Bladder cancer
+### ⚙ How It Works
 
-Children and elderly populations are disproportionately affected
+The pad consists of three layers:
 
-Awareness remains low, with only 19% of Indians fully understanding the severity of air pollution.
+1. Gas absorption layer (hydrated sodium carbonate compound)  
+2. Structural reinforcement layer  
+3. Protective outer layer  
 
-💡 Proposed Solution
-Expurgo Re-Tyre Pad
+As the vehicle moves, harmful gases are absorbed from the surrounding air.
 
-A multi-layer emission-absorbing pad that can be fitted onto vehicle tyres.
+---
 
-🔬 How It Works
+## 📊 Scientific Validation
 
-The tyre pad contains three functional layers, each serving a specific purpose:
+Hydrated sodium carbonate demonstrates:
 
-Gas absorption layer (hydrated sodium carbonate-based compound)
+- Up to **282 mg/g CO₂ absorption within 60 minutes**
+- High viability for scalable implementation  
+- Recyclability and cost efficiency  
 
-Structural support layer
+---
 
-Protective outer layer
+## 📱 Smart App Integration
 
-As the vehicle moves, the pad absorbs harmful gases from the surrounding air.
+### Features
 
-📊 Scientific Viability
+- Real-time gas absorption tracking  
+- Sensor-based data collection  
+- Cloud processing (Google Cloud)  
+- ML-powered personalized analytics  
+- Route tracking  
+- Data visualizations  
+- Gamified badges & social sharing  
 
-Hydrated sodium carbonate achieves:
+---
 
-282 mg/g CO₂ absorption within 60 minutes
+## 🛠 Tech Stack
 
-Product is:
+- **Frontend:** React Native  
+- **Backend & ML:** Python + SQL  
+- **Cloud:** Google Cloud Services  
+- **Dataset:** NASA Air Pollution Dataset  
 
-Easy to install
+---
 
-Cost-effective
+## 🎮 Gamification Strategy
 
-Recyclable
+Users can:
 
-Active pollution control solution
+- Track pollution reduction impact  
+- Earn environmental contribution badges  
+- Share achievements on social platforms  
+- Engage with visual dashboards  
 
-📱 Smart App Integration
+---
 
-The project integrates hardware with a mobile application to enhance user engagement and awareness.
-
-Features
-
-Real-time tracking through embedded sensors
-
-Cloud-based data processing
-
-Machine Learning model for user-specific analysis
-
-Interactive dashboards & graphs
-
-Route tracking
-
-Life expectancy impact updates
-
-🎮 Gamification Strategy
-
-To increase adoption and awareness:
-
-Users see visual dashboards of gases absorbed
-
-Earn badges for contribution milestones
-
-Share achievements on social media
-
-Encourage behavioral change through social incentives
-
-Research shows visualizations improve understanding across all age groups, making gamification a powerful engagement tool.
-
-📈 Data Visualization
-
-The application provides:
-
-Absorption analytics
-
-Route-based pollution impact tracking
-
-Projected absorption insights
-
-Personalized environmental contribution metrics
-
-🛠 Tech Stack
-
-Frontend: React Native
-
-Cloud: Google Cloud Services
-
-Backend & ML: Python + SQL
-
-Dataset: NASA Air Pollution Dataset
-
-Website: User-friendly portal with app download option
-
-🧠 Machine Learning
-
-Cloud-based ML model processes sensor data
-
-Personalized analytics
-
-Predictive absorption modeling
-
-Data-driven environmental impact insights
-
-🌍 Impact
+## 🌍 Impact
 
 Expurgo Re-Tyre aims to:
 
-Provide a scalable, cost-effective pollution reduction solution
+- Increase pollution awareness  
+- Provide an active emission reduction tool  
+- Combine hardware innovation with behavioral science  
+- Make sustainability measurable and shareable  
 
-Increase environmental awareness
+---
 
-Make sustainability measurable and socially shareable
+## 📌 Project Status
 
-Combine hardware innovation with behavioral science
-
-📌 Status
-
-This repository contains a draft presentation excerpt.
-
-The complete presentation, references, citations, and fully functional working code can be provided upon request.
-
-📄 License
-
-This project was developed as part of the NASA Space Apps Challenge and is shared for educational and demonstration purposes.
-
-🙌 Acknowledgements
-
-NASA Space Apps Challenge
-
-NASA Air Pollution Dataset
-
-Open-source community tools
+This repository contains presentation materials.  
+Complete documentation, references, and working code are available upon request.
