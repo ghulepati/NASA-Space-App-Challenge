@@ -5,6 +5,13 @@
 **Author:** Sai Ghule  
 
 ---
+This repository contains multiple versions of the Expurgo Re-Tyre project:
+
+1. **Technical Draft Version**  
+   The original hackathon submission focused on environmental research, data modeling, absorption projections, and system architecture.
+
+2. **School Outreach / Kid-Friendly Version**  
+   A simplified demo version created to explain the concept to school students in an engaging and visual way as part of NASA Space Apps outreach efforts.
 
 ## 🧠 Overview
 
